@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "sectionSubtitle": "OUR COLLECTIONS",
+    "title": "Timeless Creations of Heritage & Grace",
+    "description": "Discover curated handcrafted jewellery celebrating six decades of authentic Indian artistry, from royal bridal sets to everyday gold essentials.",
+    "necklaceImage": "/images/home/hero-necklace.jpg"
+  },
+  "collections": [
+    {
+      "id": "heritage-bridal",
+      "name": "The Heritage Bridal Collection",
+      "subtitle": "Royalty for Your Most Cherished Day",
+      "description": "Elaborate 22K gold chokers, multilayered haars, matching jhumkas and mathapattis set with uncut polki, rubies, and freshwater pearls.",
+      "image": "/images/services/custom-gal-3.jpg",
+      "tag": "Bridal Masterpiece",
+      "itemsCount": "24+ Exclusive Designs"
+    },
+    {
+      "id": "regional-rare",
+      "name": "Rare & Regional Traditions",
+      "subtitle": "Ancestral Bhojpuri, Maithil & Awadhi Motifs",
+      "description": "Authentic Hansuli, Dholna, Thappa kadas, and classical temple nakshi patterns recreated with ancestral precision.",
+      "image": "/images/services/cust-gal-3.jpg",
+      "tag": "Ancestral Roots",
+      "itemsCount": "18+ Cultural Designs"
+    },
+    {
+      "id": "antique-kadas",
+      "name": "Hand-forged Kadas & Bangles",
+      "subtitle": "Solid 22K Gold Heirloom Ornaments",
+      "description": "Hand-embossed floral and elephant head (Gajraaj) kadas forged to withstand generations of wear without bending or denting.",
+      "image": "/images/gallery/gal-bangles-pair.jpg",
+      "tag": "Generational Strength",
+      "itemsCount": "32+ Timeless Pairs"
+    },
+    {
+      "id": "gemstone-rings",
+      "name": "Precious Gemstone Rings & Pendants",
+      "subtitle": "Natural Rubies, Emeralds & Certified Diamonds",
+      "description": "Custom bezel and prong set gemstone creations that blend vintage royal court aesthetics with contemporary comfort.",
+      "image": "/images/gallery/gal-ring-ruby.jpg",
+      "tag": "Bespoke Luxury",
+      "itemsCount": "40+ Handset Pieces"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "sectionSubtitle": "FREQUENTLY ASKED QUESTIONS",
+    "title": "Everything You Need to Know",
+    "description": "Clear, honest answers about our custom jewellery design, repair services, purity hallmarking, and urgent doorstep assistance.",
+    "necklaceImage": "/images/home/hero-necklace.jpg"
+  },
+  "categories": [
+    "All",
+    "General",
+    "Custom Design",
+    "Jewellery Repair",
+    "Doorstep Service",
+    "Purity & Hallmarking"
+  ],
+  "faqs": [
+    {
+      "category": "General",
+      "question": "What is the heritage and legacy of Shri Swami Jewellers?",
+      "answer": "Shri Swami Jewellers was founded in 1966 by our grandfather, Shri Swamy Nath Sah, in Shitalpur, Ekma (Saran, Bihar). For 60 years across three generations, our family has practiced honest goldsmithing, handmade regional jewellery, and precision restoration. Today we serve customers across Delhi NCR, Chhapra, and Siwan."
+    },
+    {
+      "category": "Custom Design",
+      "question": "Can you make a jewellery piece from a photo or sketch?",
+      "answer": "Yes! You can share any image, sketch, video, or heirloom piece. We create a detailed technical layout with precise dimensions and estimated gold weight, review it with you, and then hand-forge it to perfection."
+    },
+    {
+      "category": "Custom Design",
+      "question": "Can I provide my own gold or gemstones for custom making?",
+      "answer": "Yes. We can melt your existing gold in your presence or credit its full certified purity value toward your new ornament. You can also provide your own gemstones, diamonds, or pearls."
+    },
+    {
+      "category": "Jewellery Repair",
+      "question": "What types of jewellery repair do you handle?",
+      "answer": "We repair gold, platinum, and silver jewellery: broken chain soldering, clasp replacements, ring resizing (sizing up or down), loose stone tightening, gemstone replacement, kada reshaping, and complete restoration of tarnished antique heirlooms."
+    },
+    {
+      "category": "Doorstep Service",
+      "question": "How does the Urgent Doorstep Jewellery Repair service work?",
+      "answer": "If your jewellery breaks right before a wedding, party, or important function, you can request our doorstep repair service. Our certified craftsman visits your residence in Delhi NCR, Chhapra, or Siwan with a specialized mobile toolkit to fix chains, clasps, rings, and earrings on the spot in front of you."
+    },
+    {
+      "category": "Purity & Hallmarking",
+      "question": "Are your gold jewellery pieces BIS Hallmarked?",
+      "answer": "Yes, absolutely 100%. All gold jewellery crafted by Shri Swami Jewellers is officially BIS Hallmarked with a 6-digit HUID code, stamped with the government purity seal (22K 916 or 18K 750) and accompanied by an authentic tax invoice."
+    },
+    {
+      "category": "Purity & Hallmarking",
+      "question": "How is gold weight and gemstone deduction calculated?",
+      "answer": "We maintain 100% transparent weighing: net gold weight is weighed separately from gemstones and pearls. You only pay for the exact net gold weight at the prevailing market gold rate, with zero hidden weight deductions."
+    }
+  ]
+}

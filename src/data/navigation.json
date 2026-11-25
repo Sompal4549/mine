@@ -1,0 +1,86 @@
+{
+  "topBar": {
+    "locationText": "Serving Delhi, Chhapra & Siwan",
+    "legacyText": "Legacy Since 1966"
+  },
+  "mainNav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about"
+    },
+    {
+      "label": "Services",
+      "href": "/services",
+      "children": [
+        {
+          "label": "All Services",
+          "href": "/services",
+          "description": "Overview of all our jewellery craftsmanship solutions"
+        },
+        {
+          "label": "Custom Jewellery Design",
+          "href": "/services/custom-jewellery-design",
+          "description": "Bespoke creations designed from your idea or reference"
+        },
+        {
+          "label": "Jewellery Repair & Restoration",
+          "href": "/services/jewellery-repair",
+          "description": "Precision soldering, ring resizing & antique revival"
+        },
+        {
+          "label": "Jewellery Customization",
+          "href": "/services/jewellery-customization",
+          "description": "Redesign, remodel and breathe new life into old gold"
+        },
+        {
+          "label": "Jewellery Making",
+          "href": "/services/jewellery-making",
+          "description": "Handcrafted pure gold and traditional ornaments"
+        }
+      ]
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "enquireButton": {
+    "label": "Enquire Now",
+    "href": "/contact"
+  },
+  "footerLinks": {
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Our Heritage", "href": "/about" },
+      { "label": "All Services", "href": "/services" },
+      { "label": "Curated Collections", "href": "/collections" },
+      { "label": "Images & Videos Gallery", "href": "/gallery" },
+      { "label": "Customer Testimonials", "href": "/testimonials" },
+      { "label": "Jewellery Care Guide", "href": "/jewellery-care" },
+      { "label": "Frequently Asked Questions", "href": "/faqs" },
+      { "label": "Contact & Visit Store", "href": "/contact" }
+    ],
+    "services": [
+      { "label": "Custom Jewellery Design", "href": "/services/custom-jewellery-design" },
+      { "label": "Jewellery Repair & Restoration", "href": "/services/jewellery-repair" },
+      { "label": "Jewellery Customization", "href": "/services/jewellery-customization" },
+      { "label": "Traditional Jewellery Making", "href": "/services/jewellery-making" },
+      { "label": "Urgent Doorstep Repair", "href": "/services/jewellery-repair#doorstep" },
+      { "label": "Rare Traditional Recreations", "href": "/services/custom-jewellery-design#rare-designs" }
+    ],
+    "locations": [
+      { "label": "Delhi NCR — 123, Heritage Market", "href": "/contact" },
+      { "label": "Chhapra, Bihar — Main Market Road", "href": "/contact" },
+      { "label": "Siwan, Bihar — Station Road", "href": "/contact" },
+      { "label": "Ancestral Roots: Shitalpur, Ekma, Saran", "href": "/about" }
+    ]
+  }
+}

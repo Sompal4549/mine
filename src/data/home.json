@@ -1,0 +1,194 @@
+{
+  "hero": {
+    "badge": "60 Years of Trust",
+    "title": "Traditional, Custom & Rare Jewellery Designs",
+    "description": "From timeless traditional patterns to unique custom creations — we craft designs that many big brands cannot, with the same personal attention and craftsmanship as our grandfather did.",
+    "highlightPhrase": "craft designs that many big brands cannot",
+    "primaryCta": {
+      "label": "Explore Our Collection",
+      "href": "/gallery"
+    },
+    "secondaryCta": {
+      "label": "Request Custom Design",
+      "href": "/services/custom-jewellery-design"
+    },
+    "image": "/images/banners/home_hero.webp",
+    "imageAlt": "Authentic Indian royal gold necklace with rubies and pearls on velvet display"
+  },
+  "quickTicker": [
+    {
+      "label": "Custom Design",
+      "icon": "diamond",
+      "href": "/services/custom-jewellery-design"
+    },
+    {
+      "label": "Jewellery Repair",
+      "icon": "tools",
+      "href": "/services/jewellery-repair"
+    },
+    {
+      "label": "Customization",
+      "icon": "sliders",
+      "href": "/services/jewellery-customization"
+    },
+    {
+      "label": "Traditional & Rare Designs",
+      "icon": "crown",
+      "href": "/services/custom-jewellery-design"
+    },
+    {
+      "label": "Jewellery Making",
+      "icon": "hammer",
+      "href": "/services/jewellery-making"
+    },
+    {
+      "label": "Home Repair Service",
+      "icon": "home",
+      "href": "/services/jewellery-repair"
+    }
+  ],
+  "heritage": {
+    "sectionSubtitle": "OUR HERITAGE",
+    "title": "A Legacy Started by Shri Swamy Nath Sah",
+    "description": "Sixty years ago, our grandfather built a name through honest craftsmanship, personalized jewellery designs and trusted repair services. Today, we are bringing that legacy back for a new generation.",
+    "badge": "Established 1966",
+    "grandfatherImage": "/images/about/grandfather.jpg",
+    "grandfatherAlt": "Shri Swamy Nath Sah in his original jewellery workshop in 1966",
+    "villageSketch": "/images/about/village-sketch.jpg",
+    "rootsText": "Shitalpur, Ekma, Saran, Bihar",
+    "rootsLabel": "Our Ancestral Roots"
+  },
+  "servicesSection": {
+    "sectionSubtitle": "OUR SERVICES",
+    "title": "Complete Jewellery Solutions",
+    "items": [
+      {
+        "id": "custom-jewellery-design",
+        "title": "Custom Jewellery Design",
+        "description": "Bring your ideas to life with personalized jewellery.",
+        "image": "/images/services/service-custom-design.jpg",
+        "icon": "diamond",
+        "href": "/services/custom-jewellery-design"
+      },
+      {
+        "id": "jewellery-repair",
+        "title": "Jewellery Repair",
+        "description": "Fix broken chains, clasps and ornaments with care.",
+        "image": "/images/services/service-repair.jpg",
+        "icon": "tools",
+        "href": "/services/jewellery-repair"
+      },
+      {
+        "id": "jewellery-customization",
+        "title": "Jewellery Customization",
+        "description": "Modify, resize or redesign your existing jewellery.",
+        "image": "/images/services/service-customization.jpg",
+        "icon": "sliders",
+        "href": "/services/jewellery-customization"
+      },
+      {
+        "id": "jewellery-making",
+        "title": "Jewellery Making",
+        "description": "Handcrafted jewellery with traditional techniques.",
+        "image": "/images/services/service-making.jpg",
+        "icon": "crown",
+        "href": "/services/jewellery-making"
+      }
+    ],
+    "traditionalBanner": {
+      "title": "Can't Find Your Traditional Design?",
+      "actionText": "We'll Create It for You.",
+      "sketchImage": "/images/home/traditional-sketch.jpg",
+      "checklist": [
+        "Rare & regional designs",
+        "Old family jewellery recreation",
+        "Traditional & cultural patterns",
+        "Designs from your photos or sketches"
+      ],
+      "href": "/services/custom-jewellery-design"
+    },
+    "urgentRepairBanner": {
+      "badge": "NEW SERVICE",
+      "title": "Urgent Jewellery Repair at Your Home",
+      "description": "Jewellery broken at the last moment? Going to a wedding, party or special event? We can come to your place and fix your jewellery quickly and reliably.",
+      "features": [
+        {
+          "label": "Quick Service",
+          "icon": "clock"
+        },
+        {
+          "label": "At Your Home",
+          "icon": "pin"
+        },
+        {
+          "label": "Same-Day Repair*",
+          "icon": "calendar"
+        }
+      ],
+      "image": "/images/home/urgent-repair.jpg",
+      "href": "/services/jewellery-repair"
+    }
+  },
+  "whyChoose": {
+    "title": "Why Choose Shri Swami Jewellers?",
+    "pillars": [
+      {
+        "title": "60 Years",
+        "subtitle": "of Family Heritage",
+        "icon": "award"
+      },
+      {
+        "title": "Traditional &",
+        "subtitle": "Rare Designs",
+        "icon": "diamond"
+      },
+      {
+        "title": "Skilled",
+        "subtitle": "Craftsmanship",
+        "icon": "tools"
+      },
+      {
+        "title": "Personalized",
+        "subtitle": "Service",
+        "icon": "users"
+      },
+      {
+        "title": "Trusted by",
+        "subtitle": "Generations",
+        "icon": "shield"
+      },
+      {
+        "title": "Home Repair",
+        "subtitle": "Service",
+        "icon": "home"
+      }
+    ]
+  },
+  "presence": {
+    "sectionSubtitle": "OUR PRESENCE",
+    "title": "Serving Customers Across Three Regions",
+    "womanImage": "/images/home/presence-woman.jpg",
+    "monumentSketch": "/images/home/delhi-sketch.jpg",
+    "regions": [
+      {
+        "name": "Delhi",
+        "subtext": "NCR"
+      },
+      {
+        "name": "Chhapra",
+        "subtext": "Bihar"
+      },
+      {
+        "name": "Siwan",
+        "subtext": "Bihar"
+      }
+    ],
+    "ancestralNote": "Shitalpur, Ekma, Saran – Our Ancestral Roots"
+  },
+  "bottomCta": {
+    "title": "Have a Custom Design or Repair Need?",
+    "subtitle": "Let's create, repair or redesign it for you — at our store or at your home.",
+    "buttonLabel": "Contact on WhatsApp",
+    "whatsappMessage": "Hello Shri Swami Jewellers, I have an urgent custom design or jewellery repair request."
+  }
+}

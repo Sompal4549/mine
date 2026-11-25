@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "sectionSubtitle": "CUSTOMER TESTIMONIALS",
+    "title": "Three Generations of Unbroken Trust",
+    "description": "Read real stories from families in Delhi, Chhapra, Siwan, and across India whose most treasured ornaments were crafted or restored by Shri Swami Jewellers.",
+    "necklaceImage": "/images/home/hero-necklace.jpg"
+  },
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Sunita Verma",
+      "location": "Greater Kailash, Delhi",
+      "serviceUsed": "Urgent Doorstep Jewellery Repair",
+      "rating": 5,
+      "year": "2024",
+      "comment": "My heavy bridal necklace clasp snapped just 4 hours before my daughter's wedding sangeet. I called Shri Swami Jewellers in panic. Their craftsman came to our home in Delhi with portable equipment and repaired it invisibly within 45 minutes! Life savers."
+    },
+    {
+      "id": "test-2",
+      "name": "Rameshwar Prasad Singh",
+      "location": "Main Road, Chhapra, Bihar",
+      "serviceUsed": "Rare Traditional Jewellery Recreation",
+      "rating": 5,
+      "year": "2023",
+      "comment": "My grandmother had a traditional Hansuli made by Shri Swamy Nath Sah ji back in the 1970s in Saran. When we wanted a replica for my grand-daughter's wedding, his grandsons recreated the exact same handcrafted motifs from an old photograph. Truly incomparable craftsmanship."
+    },
+    {
+      "id": "test-3",
+      "name": "Dr. Ananya Mishra",
+      "location": "Siwan, Bihar",
+      "serviceUsed": "Jewellery Customization",
+      "rating": 5,
+      "year": "2024",
+      "comment": "I had ancestral gold jewelry that was too heavy to ever wear outside. Shri Swami Jewellers remodeled it into a magnificent modern choker and lightweight everyday studs. The gold weight was 100% accounted for with complete transparency."
+    },
+    {
+      "id": "test-4",
+      "name": "Vikramaditya Oberoi",
+      "location": "Civil Lines, Delhi",
+      "serviceUsed": "Custom Bridal Jewellery Design",
+      "rating": 5,
+      "year": "2024",
+      "comment": "We visited all the big corporate brand showrooms in South Extension, but none of them could execute our custom Polki concept with fine Indian hand-filigree. Shri Swami Jewellers delivered a masterpiece that looks like it belongs in a royal museum."
+    },
+    {
+      "id": "test-5",
+      "name": "Pooja Srivastava",
+      "location": "Ekma, Saran, Bihar",
+      "serviceUsed": "Antique Jewellery Restoration",
+      "rating": 5,
+      "year": "2023",
+      "comment": "Our ancestral family kada had bent and lost two rubies over decades. They restored the shape, sourced matching Burma rubies, and polished it without stripping the aged heritage gold texture. Pure dedication to traditional art."
+    }
+  ]
+}

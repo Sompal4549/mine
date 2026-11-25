@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "sectionSubtitle": "ABOUT US",
+    "title": "A Legacy of Craftsmanship",
+    "description": "For over 60 years, Shri Swami Jewellers has stood for honest work, traditional knowledge and a personal connection with every customer.",
+    "necklaceImage": "/images/banners/about_hero.webp",
+    "villageSketch": "/images/home/village-sketch.jpg"
+  },
+  "founder": {
+    "sectionSubtitle": "OUR FOUNDER",
+    "name": "Shri Swamy Nath Sah",
+    "tagline": "The Visionary Behind Our Legacy",
+    "image": "/images/about/grandfather.jpg",
+    "bioParagraphs": [
+      "In 1966, our grandfather, Shri Swamy Nath Sah, started this journey in Shitalpur, Ekma (Saran, Bihar) with a simple yet powerful belief — to create beautiful, durable and meaningful jewellery for the people of our community.",
+      "His exceptional craftsmanship, honesty and personal care earned him immense trust and respect, and laid the foundation of what Shri Swami Jewellers stands for today."
+    ],
+    "quote": "For him, jewellery was not just an ornament, but a part of people's traditions, emotions and life's special moments."
+  },
+  "journey": {
+    "sectionSubtitle": "OUR JOURNEY",
+    "title": "From a Small Workshop to Three Generations of Trust",
+    "timeline": [
+      {
+        "period": "1966",
+        "badge": "The Beginning",
+        "description": "Started by Shri Swamy Nath Sah in Shitalpur, Ekma (Saran, Bihar).",
+        "icon": "store"
+      },
+      {
+        "period": "Generations",
+        "badge": "Generations of Craft",
+        "description": "A tradition of craftsmanship, trust and personal relationships that continued for decades.",
+        "icon": "users"
+      },
+      {
+        "period": "Today",
+        "badge": "Modern Expansion",
+        "description": "Serving customers in Delhi, Chhapra and Siwan with the same values.",
+        "icon": "gem"
+      }
+    ]
+  },
+  "whatMakesUsDifferent": {
+    "sectionSubtitle": "WHAT MAKES US DIFFERENT",
+    "items": [
+      {
+        "title": "60+ Years of Legacy",
+        "description": "A family heritage of trust and craftsmanship.",
+        "icon": "award"
+      },
+      {
+        "title": "Traditional Expertise",
+        "description": "Crafting regional, cultural and rare designs.",
+        "icon": "gem"
+      },
+      {
+        "title": "Custom Designs",
+        "description": "Jewellery made as per your ideas, references or family traditions.",
+        "icon": "scissors"
+      },
+      {
+        "title": "Expert Repair",
+        "description": "From broken chains to delicate ornaments, we fix it with care.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Home Repair Service",
+        "description": "We also come to your place for urgent jewellery repair.",
+        "icon": "home"
+      }
+    ]
+  },
+  "vision": {
+    "sectionSubtitle": "OUR VISION",
+    "title": "Preserving Tradition, Crafting for Tomorrow",
+    "image": "/images/about/gold-bangles-craft.jpg",
+    "statement": "To keep our family legacy alive by blending timeless craftsmanship with modern service, and to be the first choice for custom, traditional and trusted jewellery solutions in Delhi, Chhapra and Siwan."
+  }
+}

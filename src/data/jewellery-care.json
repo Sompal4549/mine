@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "sectionSubtitle": "JEWELLERY CARE GUIDE",
+    "title": "Preserving Your Precious Heirlooms",
+    "description": "Timeless wisdom and expert goldsmith advice from Shri Swami Jewellers on keeping your gold, diamonds, and precious gemstones brilliant for generations.",
+    "necklaceImage": "/images/home/hero-necklace.jpg"
+  },
+  "sections": [
+    {
+      "title": "Daily Wear & Storage Rituals",
+      "subtitle": "Protecting gold from scratches and chemical oxidation",
+      "tips": [
+        "Always store gold ornaments separately in soft cotton or velvet-lined boxes to prevent pieces from scratching each other.",
+        "Put your jewellery on last: apply perfumes, hairsprays, cosmetics, and lotions first and let them dry before wearing gold.",
+        "Remove gold rings and bangles before doing heavy domestic chores, gardening, swimming in chlorinated pools, or handling harsh detergents.",
+        "Fasten chain clasps before storing to prevent delicate chains from tangling into knots that could snap links."
+      ]
+    },
+    {
+      "title": "Cleaning Traditional Gold & Kundan Jewellery",
+      "subtitle": "Safe cleaning techniques taught by master artisans",
+      "tips": [
+        "Plain 22K Gold: Soak in warm water mixed with a few drops of mild chemical-free baby shampoo for 10 minutes. Gently brush with an ultra-soft baby toothbrush, rinse in clean water, and pat dry with a lint-free cloth.",
+        "Kundan & Polki: Never immerse Kundan or Jadau ornaments in water or liquid cleaners! Water seeps behind the gold foil (lac) causing discoloration. Clean only with a dry soft muslin cloth.",
+        "Pearls & Emeralds: Natural emeralds and organic pearls are soft and porous. Avoid hot water, steam, or ultrasonic cleaners. Wipe gently with a barely damp microfibre cloth.",
+        "Diamonds & Rubies: Can be gently degreased using lukewarm soapy water to remove accumulated skin oils and restore fiery brilliance."
+      ]
+    },
+    {
+      "title": "When to Visit Our Workshop",
+      "subtitle": "Professional maintenance schedule",
+      "tips": [
+        "Annual Prong Inspection: Get gemstone settings checked every 12 months to ensure gold claws have not worn down or loosened.",
+        "Restringing Pearl & Bead Necklaces: Silk cords stretch over time. We recommend restringing heavily worn necklaces every 1 to 2 years.",
+        "Complimentary In-Store Ultrasonic Buffing: Bring your Shri Swami Jewellers ornaments anytime for complimentary inspection and deep cleaning."
+      ]
+    }
+  ]
+}

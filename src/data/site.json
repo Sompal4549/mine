@@ -1,0 +1,43 @@
+{
+  "name": "Shri Swami Jewellers",
+  "tagline": "Legacy of Trust. Art of Craftsmanship.",
+  "foundingYear": 1966,
+  "founder": "Shri Swamy Nath Sah",
+  "phone": "+919876543210",
+  "displayPhone": "+91 98765 43210",
+  "whatsapp": "+919876543210",
+  "displayWhatsapp": "+91 98765 43210",
+  "email": "care@shriswamijewellers.in",
+  "address": {
+    "delhi": "123, Heritage Market, Delhi",
+    "delhiPincode": "110001",
+    "chhapra": "Main Market Road, Chhapra, Bihar",
+    "siwan": "Station Road, Siwan, Bihar",
+    "ancestral": "Shitalpur, Ekma, Saran, Bihar"
+  },
+  "workingHours": "Mon – Sat: 10:00 AM – 8:00 PM",
+  "socials": {
+    "instagram": "https://instagram.com/shriswamijewellers",
+    "facebook": "https://facebook.com/shriswamijewellers",
+    "youtube": "https://youtube.com/@shriswamijewellers",
+    "whatsapp": "https://wa.me/919876543210?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry"
+  },
+  "regions": [
+    {
+      "name": "Delhi NCR",
+      "tag": "Store & Doorstep Service",
+      "description": "Complete showroom, custom design consultations and urgent doorstep repair across Delhi NCR."
+    },
+    {
+      "name": "Chhapra",
+      "state": "Bihar",
+      "description": "Generations of trust serving families across Saran division for authentic regional designs."
+    },
+    {
+      "name": "Siwan",
+      "state": "Bihar",
+      "description": "Trusted craftsmanship for heirloom jewellery, bridal sets, and traditional restorations."
+    }
+  ],
+  "ancestralRoots": "Shitalpur, Ekma, Saran, Bihar"
+}

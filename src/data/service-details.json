@@ -1,0 +1,497 @@
+{
+  "custom-jewellery-design": {
+    "slug": "custom-jewellery-design",
+    "badge": "OUR SERVICES",
+    "title": "Custom Jewellery Design",
+    "heroSubtitle": "Turn your ideas into timeless jewellery with our expert craftsmanship.",
+    "heroImage": "/images/services/services-hero-banner.webp",
+    "introHeading": "Your Vision, Our Craftsmanship",
+    "introDescription": [
+      "At Shri Swami Jewellers, we believe every piece of jewellery should tell a story — your story. Our custom jewellery design service allows you to bring your unique ideas, inspirations or family heirlooms to life, crafted with precision and care."
+    ],
+    "features": [
+      "Personalized designs for every occasion",
+      "Blend of traditional and contemporary styles",
+      "Expert guidance from our veteran artisans",
+      "Premium quality and perfect finish"
+    ],
+    "featureImage": "/images/services/custom-necklace-velvet.jpg",
+    "ctaButtonText": "Start Your Custom Design",
+    "processTitle": "Our Custom Design Process",
+    "processSubtitle": "A seamless journey from your idea to a masterpiece",
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "1. Share Your Idea",
+        "description": "Tell us your design preferences or share a reference image.",
+        "icon": "message"
+      },
+      {
+        "step": 2,
+        "title": "2. Design & Concept",
+        "description": "Our experts create a custom design for you.",
+        "icon": "diamond"
+      },
+      {
+        "step": 3,
+        "title": "3. Review & Refine",
+        "description": "Get the design, suggest changes if needed.",
+        "icon": "necklace"
+      },
+      {
+        "step": 4,
+        "title": "4. Crafting",
+        "description": "Our artisans bring the design to life.",
+        "icon": "hammer"
+      },
+      {
+        "step": 5,
+        "title": "5. Wear Forever",
+        "description": "Receive your unique piece with complete trust.",
+        "icon": "gift"
+      }
+    ],
+    "galleryTitle": "Our Custom Designs Gallery",
+    "gallerySubtitle": "A glimpse of our bespoke creations",
+    "galleryImages": [
+      {
+        "src": "/images/services/custom-gal-1.jpg",
+        "alt": "Temple Gold Goddess Choker Necklace",
+        "title": "Temple Goddess Choker"
+      },
+      {
+        "src": "/images/services/custom-gal-2.jpg",
+        "alt": "Bespoke Royal Diamond Choker",
+        "title": "Royal Diamond Choker"
+      },
+      {
+        "src": "/images/services/custom-gal-3.jpg",
+        "alt": "Heritage Ruby & Emerald Choker Set",
+        "title": "Heritage Ruby & Emerald Choker"
+      },
+      {
+        "src": "/images/services/custom-gal-4.jpg",
+        "alt": "Multi-tier Bridal Diamond Necklace",
+        "title": "Multi-tier Bridal Diamond Set"
+      }
+    ],
+    "whyChooseHeading": "Why Custom Design With Shri Swami Jewellers?",
+    "whyChoosePillars": [
+      {
+        "title": "Bespoke Tailoring",
+        "description": "Every curve and stone position modeled to your exact preferences.",
+        "icon": "diamond"
+      },
+      {
+        "title": "Rare Regional Patterns",
+        "description": "Expertise in Bhojpuri, Maithil, Bihari and classical Awadhi motifs.",
+        "icon": "crown"
+      },
+      {
+        "title": "Transparent Gold Weight",
+        "description": "Exact accounting of net gold weight and gemstone caratage.",
+        "icon": "shield"
+      },
+      {
+        "title": "Lifetime Polish & Care",
+        "description": "Complimentary cleaning and prong checks for all custom creations.",
+        "icon": "award"
+      }
+    ],
+    "bottomCta": {
+      "title": "Have a Unique Design in Mind?",
+      "subtitle": "Let's create something extraordinary together.",
+      "buttonText": "Chat on WhatsApp",
+      "giftBoxImage": "/images/services/gift-box.jpg",
+      "whatsappMessage": "Hello Shri Swami Jewellers, I want to create a custom jewellery design.",
+      "bgBanner": "/images/banners/banner-custom-cta.webp"
+    },
+    "faqs": [
+      {
+        "question": "Can I bring my own sketch, photo or Pinterest reference?",
+        "answer": "Yes, absolutely! You can share any photo, sketch, or heirloom piece. Our master artisans will translate it into a production CAD sketch and discuss exact dimensions and metal weight."
+      },
+      {
+        "question": "Can I use my old family gold for making a new custom design?",
+        "answer": "Yes. We can melt and purify your old family gold or credit its market purity value towards your new custom ornament, carrying forward your sentimental family heritage."
+      },
+      {
+        "question": "How long does a custom jewellery design take?",
+        "answer": "Typical custom creations take between 7 to 14 days depending on the intricacy of hand-carving and stone setting. Urgent wedding orders can be expedited."
+      }
+    ],
+    "heroBanner": "/images/banners/hero-craftsmanship.webp"
+  },
+  "jewellery-repair": {
+    "slug": "jewellery-repair",
+    "badge": "JEWELLERY REPAIR & RESTORATION",
+    "title": "Bring Your Jewellery Back to Life",
+    "heroSubtitle": "With expert care and craftsmanship, we restore the beauty and value of your precious jewellery.",
+    "heroImage": "/images/services/services-hero-banner.webp",
+    "introHeading": "Our Repair Services",
+    "introDescription": [
+      "From minor fixes to complete restoration, we handle all types of jewellery with utmost care."
+    ],
+    "repairOfferings": [
+      {
+        "title": "Chain & Clasp Repair",
+        "icon": "diamond",
+        "description": "Fixing snapped gold chains, broken safety hooks, and spring clasps."
+      },
+      {
+        "title": "Ring Resizing",
+        "icon": "ring",
+        "description": "Enlarging or reducing ring sizes seamlessly without compromising settings."
+      },
+      {
+        "title": "Bangle Repair",
+        "icon": "circle",
+        "description": "Reshaping dented or bent kadas, soldering worn joints, and hinge tightening."
+      },
+      {
+        "title": "Stone Setting & Replacement",
+        "icon": "sparkles",
+        "description": "Resetting loose diamonds, replacing fallen rubies, emeralds or pearls."
+      },
+      {
+        "title": "Polish & Refurbishment",
+        "icon": "award",
+        "description": "Deep ultrasonic grime removal, high-luster polishing, and micro-gold plating."
+      },
+      {
+        "title": "Antique Jewellery Restoration",
+        "icon": "crown",
+        "description": "Restoring fragile 50+ year old family heirlooms preserving original antique charm."
+      }
+    ],
+    "ctaButtonText": "Get a Free Repair Estimate",
+    "beforeAfter": {
+      "title": "Before & After Restoration",
+      "subtitle": "Expert Repair. Lasting Beauty.",
+      "beforeImage": "/images/services/repair-before.jpg",
+      "afterImage": "/images/services/repair-after.jpg",
+      "combinedImage": "/images/services/repair-before-after-combined.jpg"
+    },
+    "processTitle": "Our Repair Process",
+    "processSubtitle": "Simple, transparent, and trusted restoration workflow",
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "1. Share Your Issue",
+        "description": "Upload a photo or visit our store",
+        "icon": "camera"
+      },
+      {
+        "step": 2,
+        "title": "2. Expert Assessment",
+        "description": "We evaluate the condition",
+        "icon": "search"
+      },
+      {
+        "step": 3,
+        "title": "3. Professional Repair",
+        "description": "With precision & care",
+        "icon": "tools"
+      },
+      {
+        "step": 4,
+        "title": "4. Quality Check",
+        "description": "Ensuring perfection",
+        "icon": "shieldCheck"
+      },
+      {
+        "step": 5,
+        "title": "5. Safe Return",
+        "description": "Your jewellery, as good as new",
+        "icon": "package"
+      }
+    ],
+    "whyChooseHeading": "Why Choose Shri Swami Jewellers?",
+    "whyChooseSubtitle": "Because your jewellery deserves the best care.",
+    "whyChoosePillars": [
+      {
+        "title": "Expert Craftsmanship",
+        "description": "Experienced hands handling precious metals with surgical precision.",
+        "icon": "gem"
+      },
+      {
+        "title": "Trusted for Generations",
+        "description": "60 years of family trust — zero risk of metal swapping or dilution.",
+        "icon": "shield"
+      },
+      {
+        "title": "Careful Handling of Every Piece",
+        "description": "Individual velvet trays and digital weight verification before & after.",
+        "icon": "award"
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear estimate upfront with no hidden surcharges or surprise costs.",
+        "icon": "handshake"
+      }
+    ],
+    "bottomCta": {
+      "title": "Restore the Beauty of Your Jewellery Today",
+      "subtitle": "Visit our store or get in touch for expert repair services.",
+      "buttonText": "Chat on WhatsApp",
+      "whatsappMessage": "Hello Shri Swami Jewellers, I need jewellery repair/restoration assistance.",
+      "bgBanner": "/images/banners/banner-repair-cta.webp"
+    },
+    "doorstepService": {
+      "title": "Urgent Doorstep Jewellery Repair",
+      "description": "Can't visit our store? Jewellery broke right before an event? Our mobile craftsman carries specialized portable tools right to your home in Delhi NCR, Chhapra or Siwan for emergency clasp repairs, minor soldering, and ring resizing.",
+      "features": [
+        "Same-Day Dispatch",
+        "Repair in Front of You",
+        "Fixed Inspection Fee"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is it safe to give antique or delicate family jewellery for repair?",
+        "answer": "Yes. We photograph and weigh your ornament in your presence before starting work. Every repair is carried out in-house by master goldsmiths under strict supervision."
+      },
+      {
+        "question": "How quickly can you do urgent doorstep repair?",
+        "answer": "For emergency requests in Delhi NCR, Chhapra, and Siwan, our goldsmith can arrive within 2 to 4 hours based on location to fix clasps, broken chains, and urgent earring pins."
+      },
+      {
+        "question": "What is the cost of repairing a broken gold chain or ring resize?",
+        "answer": "Basic solder and clasp fixes start from ₹250 to ₹500. Exact charges depend on whether gold solder or extra metal addition is needed, and we quote transparently upfront."
+      }
+    ],
+    "heroBanner": "/images/banners/hero-repair.webp"
+  },
+  "jewellery-customization": {
+    "slug": "jewellery-customization",
+    "badge": "JEWELLERY CUSTOMIZATION",
+    "title": "Your Dream Jewellery, Our Craftsmanship",
+    "heroSubtitle": "Turn your ideas into timeless jewellery with our bespoke customization services.",
+    "heroImage": "/images/services/services-hero-banner.webp",
+    "whyChooseCustomization": {
+      "title": "Why Choose Our Customization Service?",
+      "pillars": [
+        {
+          "title": "Personalized Designs",
+          "description": "Create jewellery that reflects your style",
+          "icon": "diamond"
+        },
+        {
+          "title": "Traditional Expertise",
+          "description": "Blend tradition with modern taste",
+          "icon": "temple"
+        },
+        {
+          "title": "Premium Quality",
+          "description": "Exceptional craftsmanship with finest quality",
+          "icon": "shield"
+        },
+        {
+          "title": "Endless Possibilities",
+          "description": "From heirloom pieces to contemporary designs",
+          "icon": "infinity"
+        }
+      ]
+    },
+    "processTitle": "Our Customization Process",
+    "processSubtitle": "A simple and seamless journey from idea to reality",
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Share Your Idea",
+        "description": "Tell us your design or upload a reference image",
+        "image": "/images/services/cust-step-1.jpg"
+      },
+      {
+        "step": 2,
+        "title": "Design & Discuss",
+        "description": "Our experts will create a tailored design",
+        "image": "/images/services/cust-step-2.jpg"
+      },
+      {
+        "step": 3,
+        "title": "Crafting",
+        "description": "We bring your design to life with precision",
+        "image": "/images/services/cust-step-3.jpg"
+      },
+      {
+        "step": 4,
+        "title": "Final Review",
+        "description": "Ensure every detail meets your expectations",
+        "image": "/images/services/cust-step-4.jpg"
+      },
+      {
+        "step": 5,
+        "title": "Receive Your Masterpiece",
+        "description": "A timeless piece, made just for you",
+        "image": "/images/services/cust-step-5.jpg"
+      }
+    ],
+    "galleryTitle": "Custom Creations Gallery",
+    "gallerySubtitle": "A glimpse of our bespoke jewellery",
+    "galleryImages": [
+      {
+        "src": "/images/services/cust-gal-1.jpg",
+        "alt": "Royal Choker Necklace",
+        "title": "Royal Choker"
+      },
+      {
+        "src": "/images/services/cust-gal-2.jpg",
+        "alt": "Ruby and Diamond Flower Ring",
+        "title": "Ruby Flower Ring"
+      },
+      {
+        "src": "/images/services/cust-gal-3.jpg",
+        "alt": "Emerald Heritage Temple Pendant",
+        "title": "Temple Emerald Pendant"
+      },
+      {
+        "src": "/images/services/cust-gal-4.jpg",
+        "alt": "Traditional Gold Jhumkas",
+        "title": "Traditional Jhumkas"
+      },
+      {
+        "src": "/images/services/cust-gal-5.jpg",
+        "alt": "Intricate Carved Gold Kada Bangle",
+        "title": "Filigree Carved Kada"
+      }
+    ],
+    "bottomCta": {
+      "title": "Have a Unique Design in Mind?",
+      "subtitle": "Let's create something extraordinary together.",
+      "buttonText": "Chat on WhatsApp",
+      "subtext": "or fill the enquiry form",
+      "whatsappMessage": "Hello Shri Swami Jewellers, I want to customize my existing jewellery.",
+      "bgBanner": "/images/banners/banner-custom-cta.webp"
+    },
+    "faqs": [
+      {
+        "question": "Can I convert heavy traditional jewellery into modern lightweight wearable pieces?",
+        "answer": "Yes! Many clients bring heavy wedding necklaces and we split or remodel them into elegant everyday pendants, lightweight bracelets, or contemporary cocktail rings."
+      },
+      {
+        "question": "How do you ensure the purity of the remade gold jewellery?",
+        "answer": "We melt the gold in your presence or run an authorized XRF spectrometer test to record the exact karats (22K / 18K) before remodeling, ensuring 100% purity guarantee."
+      }
+    ],
+    "heroBanner": "/images/banners/hero-craftsmanship.webp"
+  },
+  "jewellery-making": {
+    "slug": "jewellery-making",
+    "badge": "OUR SERVICES",
+    "title": "Traditional Jewellery Making",
+    "heroSubtitle": "Handcrafted jewellery using traditional techniques with fine detailing and long-lasting quality.",
+    "heroImage": "/images/services/services-hero-banner.webp",
+    "introHeading": "Ancestral Craftsmanship Preserved Since 1966",
+    "introDescription": [
+      "Founded by Shri Swamy Nath Sah six decades ago, our workshop upholds the sacred art of traditional Indian goldsmithing. Every bangle, kada, and necklace is hand-forged using classical hammers, dies, and hand filigree work that machine manufacturing can never replicate."
+    ],
+    "features": [
+      "100% Hand-forged pure 22K and 18K Hallmarked gold",
+      "Intricate filigree (Tarakashi) and traditional embossing (Thappa)",
+      "Authentic Jadau, Polki, and natural gemstone setting",
+      "Built for generational longevity and family heirloom inheritance"
+    ],
+    "featureImage": "/images/about/gold-bangles-craft.jpg",
+    "ctaButtonText": "Order Handcrafted Jewellery",
+    "processTitle": "Our Traditional Making Process",
+    "processSubtitle": "The sacred metallurgical transformation from raw gold to royal masterpiece",
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "1. Purity Assay & Smelting",
+        "description": "Crucible smelting of pure certified 24K and 22K gold bullion.",
+        "icon": "flame"
+      },
+      {
+        "step": 2,
+        "title": "2. Hand Wire Drawing & Forging",
+        "description": "Traditional anvil hammering and manual rolling to create metal sheets.",
+        "icon": "hammer"
+      },
+      {
+        "step": 3,
+        "title": "3. Hand Carving & Filigree",
+        "description": "Micro-soldering delicate gold wires and embossing regional motifs.",
+        "icon": "sparkles"
+      },
+      {
+        "step": 4,
+        "title": "4. Stone Inlay & Jadau Work",
+        "description": "Traditional 24K gold foil (kundan) setting of rubies, emeralds, and polki.",
+        "icon": "diamond"
+      },
+      {
+        "step": 5,
+        "title": "5. BIS Hallmarking & Luster Polish",
+        "description": "Final inspection, govt BIS hallmarking stamp, and mirror hand buffing.",
+        "icon": "shieldCheck"
+      }
+    ],
+    "galleryTitle": "Master Creations Gallery",
+    "gallerySubtitle": "Traditional hand-forged jewellery from our workshop",
+    "galleryImages": [
+      {
+        "src": "/images/gallery/gal-bangles-pair.jpg",
+        "alt": "Pair of Handcrafted Gold Kadas",
+        "title": "Hand-forged Gold Kadas"
+      },
+      {
+        "src": "/images/gallery/gal-necklace-ruby.jpg",
+        "alt": "Traditional Ruby Bridal Choker",
+        "title": "Ruby Bridal Choker"
+      },
+      {
+        "src": "/images/gallery/gal-jhumkas.jpg",
+        "alt": "Handcrafted Filigree Jhumkas",
+        "title": "Filigree Gold Jhumkas"
+      },
+      {
+        "src": "/images/gallery/gal-ring-ruby.jpg",
+        "alt": "Handcrafted Floral Ruby Ring",
+        "title": "Handcrafted Ruby Ring"
+      }
+    ],
+    "whyChooseHeading": "Why Choose Handmade Over Machine Jewellery?",
+    "whyChoosePillars": [
+      {
+        "title": "Superior Density & Strength",
+        "description": "Hand-forged gold is denser, resists bending, and does not crack like cast machine gold.",
+        "icon": "shield"
+      },
+      {
+        "title": "Unique Soul & Individuality",
+        "description": "No two handmade ornaments are identical; each bears the unique touch of the master artisan.",
+        "icon": "gem"
+      },
+      {
+        "title": "True Heirloom Value",
+        "description": "Crafted to be passed down through mother to daughter for three or more generations.",
+        "icon": "award"
+      },
+      {
+        "title": "Preserving Indian Heritage",
+        "description": "Supporting native artisans who keep ancient goldsmithing skills alive.",
+        "icon": "users"
+      }
+    ],
+    "bottomCta": {
+      "title": "Commission a Handcrafted Masterpiece",
+      "subtitle": "Talk directly to our master craftsmen to create your family heirloom.",
+      "buttonText": "Chat on WhatsApp",
+      "whatsappMessage": "Hello Shri Swami Jewellers, I want to commission handcrafted traditional jewellery.",
+      "bgBanner": "/images/banners/banner-custom-cta.webp"
+    },
+    "faqs": [
+      {
+        "question": "Is your handcrafted jewellery certified with BIS Hallmarking?",
+        "answer": "Yes, 100%. Every ornament we forge is stamped with government BIS Hallmarking including 6-digit HUID code, 22K (916) or 18K (750) purity marks."
+      },
+      {
+        "question": "Can you replicate rare ancestral Bihari designs?",
+        "answer": "Yes! Originating from Shitalpur, Ekma (Saran, Bihar), our family has specialized in traditional Bhojpuri, Maithil, and Awadhi jewellery such as Hansuli, Dholna, Tikka, Nath, and traditional Kadas for over six decades."
+      }
+    ],
+    "heroBanner": "/images/banners/hero-craftsmanship.webp"
+  }
+}

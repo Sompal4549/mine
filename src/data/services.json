@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "sectionSubtitle": "OUR SERVICES",
+    "title": "Complete Jewellery Solutions",
+    "description": "From creating new designs to repairing and customizing your cherished jewellery, we offer personalized services with the same trust and craftsmanship that has defined us for 60 years.",
+    "necklaceImage": "/images/banners/hero-necklace.webp"
+  },
+  "mainServices": [
+    {
+      "id": "custom-jewellery-design",
+      "slug": "custom-jewellery-design",
+      "title": "Custom Jewellery Design",
+      "description": "Get jewellery designed just the way you imagine it — from idea, reference or traditional patterns.",
+      "image": "/images/services/service-custom-design.jpg",
+      "icon": "diamond",
+      "ctaText": "Explore Custom Design"
+    },
+    {
+      "id": "jewellery-repair",
+      "slug": "jewellery-repair",
+      "title": "Jewellery Repair",
+      "description": "Fix broken chains, clasps, lockets and other ornaments with expert care and precision.",
+      "image": "/images/services/service-repair.jpg",
+      "icon": "tools",
+      "ctaText": "Explore Repair Services"
+    },
+    {
+      "id": "jewellery-customization",
+      "slug": "jewellery-customization",
+      "title": "Jewellery Customization",
+      "description": "Modify, resize or redesign your existing jewellery to give it a new look and purpose.",
+      "image": "/images/services/service-customization.jpg",
+      "icon": "sliders",
+      "ctaText": "Explore Customization"
+    },
+    {
+      "id": "jewellery-making",
+      "slug": "jewellery-making",
+      "title": "Jewellery Making",
+      "description": "Handcrafted jewellery using traditional techniques with fine detailing and long-lasting quality.",
+      "image": "/images/services/service-making.jpg",
+      "icon": "crown",
+      "ctaText": "Explore Traditional Making"
+    }
+  ],
+  "traditionalBanner": {
+    "title": "Can't Find Your Traditional Design?",
+    "actionText": "We'll Create It for You.",
+    "sketchImage": "/images/home/traditional-sketch.jpg",
+    "checklist": [
+      "Rare & regional designs",
+      "Old family jewellery recreation",
+      "Traditional & cultural patterns",
+      "Designs from your photos or sketches"
+    ],
+    "href": "/services/custom-jewellery-design"
+  },
+  "urgentRepairBanner": {
+    "badge": "SPECIAL SERVICE",
+    "title": "Urgent Jewellery Repair at Your Home",
+    "description": "Jewellery broken at the last moment? Going to a wedding, party or special event? We can come to your place and fix your jewellery quickly and reliably.",
+    "features": [
+      {
+        "label": "Quick Service",
+        "icon": "clock"
+      },
+      {
+        "label": "At Your Home",
+        "icon": "pin"
+      },
+      {
+        "label": "Same-Day Repair*",
+        "icon": "calendar"
+      }
+    ],
+    "image": "/images/home/urgent-repair.jpg",
+    "href": "/services/jewellery-repair"
+  },
+  "advantage": {
+    "sectionSubtitle": "WHY CHOOSE OUR SERVICES",
+    "title": "The Shri Swami Jewellers Advantage",
+    "pillars": [
+      {
+        "title": "60 Years of Trust",
+        "description": "A legacy of craftsmanship since 1966",
+        "icon": "award"
+      },
+      {
+        "title": "Traditional Expertise",
+        "description": "Expertise in regional, cultural and rare designs",
+        "icon": "diamond"
+      },
+      {
+        "title": "Skilled Craftsmanship",
+        "description": "Experienced artisans with a keen eye for detail",
+        "icon": "tools"
+      },
+      {
+        "title": "Personalized Service",
+        "description": "Designs and solutions as per your needs and budget.",
+        "icon": "users"
+      },
+      {
+        "title": "Trust & Transparency",
+        "description": "Honest guidance, quality work and lasting relationships",
+        "icon": "shield"
+      }
+    ]
+  },
+  "process": {
+    "sectionSubtitle": "OUR PROCESS",
+    "title": "From Your Idea to a Finished Creation",
+    "banglesImage": "/images/about/gold-bangles-craft.jpg",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Consultation",
+        "description": "Share your idea, reference or requirement.",
+        "icon": "message"
+      },
+      {
+        "step": 2,
+        "title": "Design & Planning",
+        "description": "We create a design and discuss the details with you.",
+        "icon": "penTool"
+      },
+      {
+        "step": 3,
+        "title": "Crafting",
+        "description": "Our skilled artisans bring the design to life.",
+        "icon": "anvil"
+      },
+      {
+        "step": 4,
+        "title": "Final Delivery",
+        "description": "Receive your beautifully crafted jewellery.",
+        "icon": "diamond"
+      }
+    ],
+    "bgBanner": "/images/banners/banner-process.webp"
+  }
+}

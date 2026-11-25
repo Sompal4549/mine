@@ -1,0 +1,32 @@
+[
+  {
+    "id": "contact_1795598034140_l7vbl",
+    "name": "Sompal Kumar",
+    "email": "somfrontenddeveloper@gmail.com",
+    "phone": "07678221037",
+    "service": "Jewellery Customization",
+    "message": "jhyy",
+    "createdAt": "2026-11-25T09:13:54.140Z",
+    "status": "new"
+  },
+  {
+    "id": "contact_1795595874647_mih97",
+    "name": "Sompal Kumar",
+    "email": "somfrontenddeveloper@gmail.com",
+    "phone": "7678221037",
+    "service": "Custom Jewellery Design",
+    "message": "hht",
+    "createdAt": "2026-11-25T08:37:54.647Z",
+    "status": "new"
+  },
+  {
+    "id": "contact_1795594872540_5kf5q",
+    "name": "Sompal Kumar",
+    "email": "somfrontenddeveloper@gmail.com",
+    "phone": "07678221037",
+    "service": "Rare Regional Design Recreation",
+    "message": "hello",
+    "createdAt": "2026-11-25T08:21:12.541Z",
+    "status": "new"
+  }
+]

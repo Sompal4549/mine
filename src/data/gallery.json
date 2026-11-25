@@ -1,0 +1,206 @@
+{
+  "hero": {
+    "sectionSubtitle": "OUR GALLERY",
+    "title": "A Glimpse of Our Craftsmanship",
+    "description": "Explore our jewellery collection, custom creations, traditional designs and real work from our workshop.",
+    "necklaceImage": "/images/banners/hero-necklace.webp"
+  },
+  "categories": [
+    {
+      "id": "all",
+      "label": "All"
+    },
+    {
+      "id": "necklaces",
+      "label": "Necklaces"
+    },
+    {
+      "id": "earrings",
+      "label": "Earrings"
+    },
+    {
+      "id": "bangles",
+      "label": "Bangles"
+    },
+    {
+      "id": "rings",
+      "label": "Rings"
+    },
+    {
+      "id": "bridal",
+      "label": "Bridal Sets"
+    },
+    {
+      "id": "custom",
+      "label": "Custom Designs"
+    },
+    {
+      "id": "repair",
+      "label": "Repairs & Restorations"
+    }
+  ],
+  "items": [
+    {
+      "id": "gal-1",
+      "title": "Royal Gold Choker with Ruby Cabochons",
+      "category": "necklaces",
+      "tags": [
+        "necklaces",
+        "bridal",
+        "custom"
+      ],
+      "image": "/images/gallery/gal-necklace-ruby.jpg",
+      "description": "Exquisite 22K hallmarked antique choker set with natural rubies and cascading south sea pearls."
+    },
+    {
+      "id": "gal-2",
+      "title": "Traditional Handcrafted Gold Jhumkas",
+      "category": "earrings",
+      "tags": [
+        "earrings",
+        "custom"
+      ],
+      "image": "/images/gallery/gal-jhumkas.jpg",
+      "description": "Intricate flower-stud jhumkas with delicate seed pearl latkans and antique gold finish."
+    },
+    {
+      "id": "gal-3",
+      "title": "Pair of Antique Embossed Gold Kadas",
+      "category": "bangles",
+      "tags": [
+        "bangles"
+      ],
+      "image": "/images/gallery/gal-bangles-pair.jpg",
+      "description": "Hand-forged 22K solid gold bangles featuring traditional temple leaf and floral motifs."
+    },
+    {
+      "id": "gal-4",
+      "title": "Floral Ruby & Diamond Statement Ring",
+      "category": "rings",
+      "tags": [
+        "rings",
+        "custom"
+      ],
+      "image": "/images/gallery/gal-ring-ruby.jpg",
+      "description": "Vibrant pigeon-blood ruby center enveloped by brilliant-cut diamond petals in 18K yellow gold."
+    },
+    {
+      "id": "gal-5",
+      "title": "Temple Heritage Gold Pendant Necklace",
+      "category": "necklaces",
+      "tags": [
+        "necklaces"
+      ],
+      "image": "/images/gallery/gal-pendant-necklace.jpg",
+      "description": "Authentic temple jewelry pendant depicting sacred motifs with natural ruby and pearl accents."
+    },
+    {
+      "id": "gal-6",
+      "title": "Diamond Floral Openable Bangle",
+      "category": "bangles",
+      "tags": [
+        "bangles",
+        "custom"
+      ],
+      "image": "/images/gallery/gal-diamond-flower-bangle.jpg",
+      "description": "Contemporary diamond cluster flowers set along a carved antique gold band with secure screw lock."
+    },
+    {
+      "id": "gal-7",
+      "title": "Grand Royal Bridal Necklace Set",
+      "category": "bridal",
+      "tags": [
+        "bridal",
+        "necklaces",
+        "earrings"
+      ],
+      "image": "/images/gallery/gal-bridal-set.jpg",
+      "description": "Complete wedding bridal ensemble including grand choker, matching earrings and traditional maang tikka."
+    },
+    {
+      "id": "gal-8",
+      "title": "Antique Gold Necklace with Emerald Centerpiece",
+      "category": "necklaces",
+      "tags": [
+        "necklaces",
+        "custom"
+      ],
+      "image": "/images/gallery/gal-emerald-necklace.jpg",
+      "description": "Heirloom style necklace crafted with deep green Colombian emerald center and fine filigree chain."
+    },
+    {
+      "id": "gal-9",
+      "title": "Precision Chain Soldering & Clasp Repair",
+      "category": "repair",
+      "tags": [
+        "repair"
+      ],
+      "image": "/images/gallery/gal-soldering.jpg",
+      "description": "Micro-soldering under magnification repairing snapped gold link chains without visible joint marks."
+    },
+    {
+      "id": "gal-10",
+      "title": "Hand-Carved Floral Kada Close-up",
+      "category": "bangles",
+      "tags": [
+        "bangles",
+        "custom"
+      ],
+      "image": "/images/gallery/gal-bangle-carved.jpg",
+      "description": "Master artisan detailing deep-relief floral engravings on solid 22K gold bangle."
+    },
+    {
+      "id": "gal-11",
+      "title": "Complete Antique Necklace Restoration",
+      "category": "repair",
+      "tags": [
+        "repair"
+      ],
+      "image": "/images/gallery/gal-before-after.jpg",
+      "isBeforeAfter": true,
+      "description": "Restoring a 50-year-old tarnished broken necklace to its original imperial shine and structure."
+    },
+    {
+      "id": "gal-12",
+      "title": "Micro-Torch Ring Resizing & Stone Tightening",
+      "category": "repair",
+      "tags": [
+        "repair",
+        "rings"
+      ],
+      "image": "/images/gallery/gal-torch-ring.jpg",
+      "description": "Thermal heat shield soldering resizing a delicate ring without affecting gemstone brilliance."
+    }
+  ],
+  "featuredVideos": {
+    "sectionSubtitle": "FEATURED VIDEOS",
+    "title": "Watch Our Craftsmanship in Action",
+    "subtitle": "See how your favourite jewellery is designed, crafted, repaired and brought to life at Shri Swami Jewellers.",
+    "videos": [
+      {
+        "id": "vid-1",
+        "title": "From Sketch to Jewellery",
+        "subtitle": "The journey of a custom design",
+        "duration": "02:18",
+        "thumbnail": "/images/gallery/video-sketch.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": "vid-2",
+        "title": "Jewellery Making Process",
+        "subtitle": "A look at our traditional craftsmanship",
+        "duration": "03:27",
+        "thumbnail": "/images/gallery/video-making.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": "vid-3",
+        "title": "Jewellery Repair & Restoration",
+        "subtitle": "Bringing your jewellery back to life",
+        "duration": "01:46",
+        "thumbnail": "/images/gallery/video-repair.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      }
+    ]
+  }
+}

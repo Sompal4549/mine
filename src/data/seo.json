@@ -1,0 +1,59 @@
+{
+  "siteUrl": "https://shriswamijewellers.com",
+  "defaultTitle": "Shri Swami Jewellers | Legacy of Trust, Art of Craftsmanship Since 1966",
+  "defaultDescription": "Shri Swami Jewellers - 60 years of family jewellery legacy founded by Shri Swamy Nath Sah. Custom jewellery design, antique restoration, urgent doorstep repair in Delhi NCR, Chhapra & Siwan.",
+  "pages": {
+    "home": {
+      "title": "Traditional, Custom & Rare Jewellery Designs | Shri Swami Jewellers",
+      "description": "Crafting rare traditional gold designs, custom jewellery, and urgent doorstep repair in Delhi NCR, Chhapra & Siwan. 60 years of heritage legacy founded by Shri Swamy Nath Sah."
+    },
+    "about": {
+      "title": "About Our 60-Year Legacy | Shri Swamy Nath Sah | Shri Swami Jewellers",
+      "description": "Discover the 60-year craftsmanship journey of Shri Swami Jewellers, started in 1966 by Shri Swamy Nath Sah in Shitalpur, Ekma (Saran, Bihar)."
+    },
+    "services": {
+      "title": "Complete Jewellery Solutions | Custom Design, Repair & Making",
+      "description": "Expert jewellery services: custom design, repair & restoration, urgent doorstep repair, gold customization, and traditional making across Delhi NCR, Chhapra and Siwan."
+    },
+    "customDesign": {
+      "title": "Custom Jewellery Design | Turn Your Ideas into Timeless Gold",
+      "description": "Bespoke custom jewellery design by veteran artisans. We craft rare regional designs and unique creations from your sketches, photos or references."
+    },
+    "repair": {
+      "title": "Jewellery Repair & Restoration | Urgent Doorstep Repair",
+      "description": "Precision jewellery repair, chain soldering, ring resizing, stone replacement and urgent same-day doorstep repair at your home in Delhi NCR, Chhapra & Siwan."
+    },
+    "customization": {
+      "title": "Jewellery Customization | Redesign & Remodel Your Gold",
+      "description": "Remodel and redesign your old gold jewellery into contemporary or traditional masterpieces with 100% purity guarantee and transparent weighing."
+    },
+    "making": {
+      "title": "Traditional Jewellery Making | Handcrafted Pure Gold Artistry",
+      "description": "Authentic handcrafted Indian jewellery forged with classical techniques passed down from Shri Swamy Nath Sah since 1966. 100% BIS Hallmarked."
+    },
+    "gallery": {
+      "title": "Gallery & Videos | A Glimpse of Our Craftsmanship",
+      "description": "Explore high-resolution photos and workshop videos of royal gold necklaces, bridal sets, jhumkas, kadas, before/after restorations, and making processes."
+    },
+    "contact": {
+      "title": "Contact Us & Visit Our Store | Delhi, Chhapra & Siwan",
+      "description": "Get in touch with Shri Swami Jewellers. Visit our showroom in Delhi, connect with our Bihar branches, or request urgent doorstep repair via WhatsApp."
+    },
+    "collections": {
+      "title": "Curated Jewellery Collections | Heritage Bridal & Rare Ornaments",
+      "description": "Explore curated collections of traditional Indian gold jewellery, antique kadas, bridal chokers, and ancestral regional designs."
+    },
+    "testimonials": {
+      "title": "Customer Testimonials & Reviews | Shri Swami Jewellers",
+      "description": "Read authentic reviews from three generations of customers in Delhi, Chhapra, Siwan, and Saran regarding our custom designs and doorstep repairs."
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions | Custom Design, Repair & Purity",
+      "description": "Answers to common questions about custom jewellery design timelines, repair costs, urgent doorstep visits, and BIS hallmarking."
+    },
+    "jewelleryCare": {
+      "title": "Traditional Jewellery Care Guide | Expert Goldsmith Advice",
+      "description": "Master goldsmith tips on storing, cleaning, and protecting traditional Indian gold, Kundan, polki, diamonds, and gemstones for generations."
+    }
+  }
+}
