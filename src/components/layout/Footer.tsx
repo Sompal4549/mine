@@ -79,23 +79,47 @@ export default function Footer() {
               Get In Touch
             </h4>
             <div className="space-y-3 text-sm text-[#F5EBDD]/80">
-              <a
-                href={`tel:${siteData.phone}`}
-                className="flex items-start gap-2.5 hover:text-[#D8A84E] transition-colors"
-              >
+              <div className="flex items-start gap-2.5">
                 <Phone className="w-4 h-4 text-[#D8A84E] flex-shrink-0 mt-0.5" />
-                <span>{siteData.displayPhone}</span>
-              </a>
+                <div className="flex flex-col gap-1 text-xs sm:text-sm">
+                  <a href="tel:+918595355297" className="hover:text-[#D8A84E] transition-colors">+91 85953 55297</a>
+                  <a href="tel:+917678221037" className="hover:text-[#D8A84E] transition-colors">+91 76782 21037</a>
+                  <a href="tel:+919899802818" className="hover:text-[#D8A84E] transition-colors">+91 98998 02818</a>
+                </div>
+              </div>
 
-              <a
-                href={siteData.socials.whatsapp}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-start gap-2.5 hover:text-[#D8A84E] transition-colors"
-              >
+              <div className="flex items-start gap-2.5">
                 <MessageCircle className="w-4 h-4 text-[#25D366] flex-shrink-0 mt-0.5" />
-                <span>Chat on WhatsApp</span>
-              </a>
+                <div className="flex flex-col gap-1 text-xs">
+                  <span className="text-[#D8A84E] font-semibold">WhatsApp (All 3 Active):</span>
+                  <div className="flex flex-wrap gap-1.5 pt-0.5">
+                    <a
+                      href="https://wa.me/918595355297?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:text-[#25D366] transition-colors bg-[#650D1B] px-2 py-0.5 rounded text-[11px]"
+                    >
+                      8595355297
+                    </a>
+                    <a
+                      href="https://wa.me/917678221037?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:text-[#25D366] transition-colors bg-[#650D1B] px-2 py-0.5 rounded text-[11px]"
+                    >
+                      7678221037
+                    </a>
+                    <a
+                      href="https://wa.me/919899802818?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:text-[#25D366] transition-colors bg-[#650D1B] px-2 py-0.5 rounded text-[11px]"
+                    >
+                      9899802818
+                    </a>
+                  </div>
+                </div>
+              </div>
 
               <a
                 href={`mailto:${siteData.email}`}

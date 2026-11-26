@@ -18,12 +18,24 @@ import {
 import { LaurelWreathIcon, AnvilStakeIcon, CrossedToolsIcon } from "@/components/common/CustomIcons";
 import servicesData from "@/data/services.json";
 import { OrnamentalDivider } from "@/components/common/Ornaments";
+import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata = {
-  title: "Complete Jewellery Solutions | Custom Design, Repair & Making",
+export const metadata: Metadata = pageMetadata({
+  title: "Complete Jewellery Solutions",
   description:
     "Explore our complete jewellery services: custom design, repair & restoration, gold customization, traditional making and urgent doorstep repair across Delhi, Chhapra & Siwan.",
-};
+  path: "/services",
+  image: "/images/og/og-services.jpg",
+  imageAlt: "Shri Swami Jewellers jewellery services - design, repair and making",
+  keywords: [
+    "jewellery services Delhi",
+    "custom jewellery design",
+    "jewellery repair restoration",
+    "doorstep jewellery repair",
+    "gold jewellery making",
+  ],
+});
 
 export default function ServicesPage() {
   return (

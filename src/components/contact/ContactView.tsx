@@ -14,7 +14,6 @@ import {
   ShieldCheck,
   Handshake,
   LayoutGrid,
-  ArrowRight,
   ExternalLink,
   Loader2,
   Clock,
@@ -152,24 +151,53 @@ export default function ContactView() {
                       <h4 className="font-serif text-base font-bold text-[#650D1B]">
                         {ch.title}
                       </h4>
-                      <p className="text-sm font-semibold text-[#241B19] mt-0.5">
-                        {ch.primary}
-                      </p>
+                      {isEmail ? (
+                        <a
+                          href={ch.actionUrl}
+                          className="text-sm font-semibold text-[#241B19] hover:text-[#650D1B] underline mt-0.5 block"
+                        >
+                          {ch.primary}
+                        </a>
+                      ) : (
+                        <p className="text-sm font-semibold text-[#241B19] mt-0.5">
+                          {ch.primary}
+                        </p>
+                      )}
                       {ch.secondary && (
                         <p className="text-xs text-[#65564E] mt-0.5">{ch.secondary}</p>
                       )}
 
-                      {isWhatsapp && (
-                        <div className="pt-2">
-                          <a
-                            href={ch.actionUrl}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="inline-flex items-center gap-1.5 text-xs font-bold text-[#650D1B] bg-[#F5EBDD] px-3.5 py-1 rounded-full border border-[#C18A32]/40 hover:bg-[#650D1B] hover:text-white transition-colors"
-                          >
-                            <span>{ch.actionText}</span>
-                            <ArrowRight className="w-3 h-3" />
-                          </a>
+                      {/* Multiple numbers pills for Phone */}
+                      {isPhone && (ch as { numbers?: { display: string; tel: string }[] }).numbers && (
+                        <div className="flex flex-wrap gap-2 pt-2.5">
+                          {(ch as { numbers?: { display: string; tel: string }[] }).numbers?.map((n) => (
+                            <a
+                              key={n.display}
+                              href={n.tel}
+                              className="inline-flex items-center gap-1 text-[11px] font-bold text-[#650D1B] bg-[#F5EBDD] px-2.5 py-1 rounded-full border border-[#C18A32]/40 hover:bg-[#650D1B] hover:text-white transition-colors"
+                            >
+                              <Phone className="w-2.5 h-2.5" />
+                              <span>{n.display}</span>
+                            </a>
+                          ))}
+                        </div>
+                      )}
+
+                      {/* Multiple numbers pills for WhatsApp */}
+                      {isWhatsapp && (ch as { numbers?: { display: string; wa: string }[] }).numbers && (
+                        <div className="flex flex-wrap gap-2 pt-2.5">
+                          {(ch as { numbers?: { display: string; wa: string }[] }).numbers?.map((n) => (
+                            <a
+                              key={n.display}
+                              href={n.wa}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="inline-flex items-center gap-1.5 text-[11px] font-bold text-[#128C7E] bg-[#25D366]/15 px-3 py-1 rounded-full border border-[#25D366]/40 hover:bg-[#25D366] hover:text-white transition-colors"
+                            >
+                              <MessageCircle className="w-3 h-3 text-[#25D366]" />
+                              <span>Chat {n.display}</span>
+                            </a>
+                          ))}
                         </div>
                       )}
                     </div>
@@ -447,7 +475,7 @@ export default function ContactView() {
                 <div className="p-3.5 bg-[#650D1B] text-[#FFF8ED] rounded-xl text-xs flex items-center justify-between gap-2 shadow-xs">
                   <span>Doorstep Repair available in Delhi NCR, Chhapra &amp; Siwan</span>
                   <a
-                    href="https://wa.me/919876543210?text=Hello%20Shri%20Swami%20Jewellers,%20I%20want%20to%20book%20a%20doorstep%20repair"
+                    href="https://wa.me/918595355297?text=Hello%20Shri%20Swami%20Jewellers,%20I%20want%20to%20book%20a%20doorstep%20repair"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="font-bold text-[#D8A84E] hover:underline flex-shrink-0"

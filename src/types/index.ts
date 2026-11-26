@@ -7,6 +7,11 @@ export interface SiteConfig {
   displayPhone: string;
   whatsapp: string;
   displayWhatsapp: string;
+  phoneNumbers?: {
+    number: string;
+    display: string;
+    isWhatsapp?: boolean;
+  }[];
   email: string;
   address: {
     delhi: string;

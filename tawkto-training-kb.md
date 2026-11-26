@@ -34,9 +34,12 @@ Shri Swami Jewellers was founded in 1966 by Shri Swamy Nath Sah in Shitalpur, Ek
 
 | Channel | Value |
 |---------|-------|
-| Phone / WhatsApp | +91 98765 43210 |
-| WhatsApp Link | https://wa.me/919876543210?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry |
-| Email | care@shriswamijewellers.in |
+| WhatsApp & Call (Primary) | +91 85953 55297 |
+| WhatsApp & Call (Secondary) | +91 76782 21037 |
+| WhatsApp & Call (Support) | +91 98998 02818 |
+| Note | All 3 numbers are active WhatsApp and calling numbers |
+| WhatsApp Link | https://wa.me/918595355297?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry |
+| Email | somfrontenddeveloper@gmail.com |
 | Response Time | Quick response within 24 hours |
 
 ---
@@ -45,21 +48,22 @@ Shri Swami Jewellers was founded in 1966 by Shri Swamy Nath Sah in Shitalpur, Ek
 
 ### Delhi NCR (Flagship Showroom)
 - Address: 123, Heritage Market, Connaught Place / Karol Bagh corridor, Delhi – 110001
-- Phone: +91 98765 43210
+- Phone / WhatsApp: +91 85953 55297
 - Services: Complete showroom, custom design consultations, urgent doorstep repair across Delhi NCR
 
 ### Chhapra (Saran, Bihar)
 - Address: Main Market Road, Near Town Thana, Chhapra – 841301
-- Phone: +91 98765 43210
+- Phone / WhatsApp: +91 76782 21037
 - Services: Authentic regional designs, generations of trust serving families across Saran division
 
 ### Siwan (Bihar)
 - Address: Station Road, Siwan – 841226
-- Phone: +91 98765 43210
+- Phone / WhatsApp: +91 98998 02818
 - Services: Heirloom jewellery, bridal sets, traditional restorations
 
 ### Ancestral Roots
 - Shitalpur, Ekma, Saran, Bihar — Where the legacy began in 1966 with Shri Swamy Nath Sah
+- Phone / WhatsApp: +91 85953 55297 / +91 76782 21037
 
 ---
 
@@ -198,8 +202,8 @@ The chatbot should hand off to a human agent (via WhatsApp or email) when:
 - Customer requests store visit / map directions
 - Customer says "talk to a human", "agent", "call me", or "representative"
 
-**WhatsApp fallback:** https://wa.me/919876543210  
-**Email fallback:** care@shriswamijewellers.in
+**WhatsApp fallback:** https://wa.me/918595355297 (also active on +91 76782 21037 and +91 98998 02818)  
+**Email fallback:** somfrontenddeveloper@gmail.com
 
 ---
 

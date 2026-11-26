@@ -11,17 +11,28 @@
       {
         "type": "phone",
         "title": "Call Us",
-        "primary": "+91 98765 43210",
-        "secondary": "Mon – Sat: 10:00 AM – 8:00 PM",
-        "actionUrl": "tel:+919876543210",
+        "primary": "+91 85953 55297",
+        "secondary": "+91 76782 21037 | +91 98998 02818 (Mon – Sat: 10:00 AM – 8:00 PM)",
+        "actionUrl": "tel:+918595355297",
+        "numbers": [
+          { "display": "+91 85953 55297", "tel": "tel:+918595355297", "wa": "https://wa.me/918595355297?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry" },
+          { "display": "+91 76782 21037", "tel": "tel:+917678221037", "wa": "https://wa.me/917678221037?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry" },
+          { "display": "+91 98998 02818", "tel": "tel:+919899802818", "wa": "https://wa.me/919899802818?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry" }
+        ],
         "icon": "phone"
       },
       {
         "type": "whatsapp",
         "title": "Chat on WhatsApp",
-        "primary": "Instant Assistance",
-        "actionText": "Chat Now",
-        "actionUrl": "https://wa.me/919876543210?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry",
+        "primary": "+91 85953 55297 / 7678221037 / 9899802818",
+        "secondary": "All 3 numbers available on WhatsApp for instant assistance",
+        "actionText": "Chat on WhatsApp",
+        "actionUrl": "https://wa.me/918595355297?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry",
+        "numbers": [
+          { "display": "+91 85953 55297", "wa": "https://wa.me/918595355297?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry" },
+          { "display": "+91 76782 21037", "wa": "https://wa.me/917678221037?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry" },
+          { "display": "+91 98998 02818", "wa": "https://wa.me/919899802818?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry" }
+        ],
         "icon": "whatsapp"
       },
       {
@@ -35,9 +46,9 @@
       {
         "type": "email",
         "title": "Email Us",
-        "primary": "care@shriswamijewellers.in",
+        "primary": "somfrontenddeveloper@gmail.com",
         "secondary": "Quick response within 24 hours",
-        "actionUrl": "mailto:care@shriswamijewellers.in",
+        "actionUrl": "mailto:somfrontenddeveloper@gmail.com",
         "icon": "mail"
       }
     ]
@@ -68,22 +79,22 @@
       {
         "city": "Delhi NCR (Flagship Showroom)",
         "address": "123, Heritage Market, Connaught Place / Karol Bagh corridor, Delhi – 110001",
-        "phone": "+91 98765 43210"
+        "phone": "+91 85953 55297"
       },
       {
         "city": "Chhapra (Saran, Bihar)",
         "address": "Main Market Road, Near Town Thana, Chhapra – 841301",
-        "phone": "+91 98765 43210"
+        "phone": "+91 76782 21037"
       },
       {
         "city": "Siwan (Bihar)",
         "address": "Station Road, Siwan – 841226",
-        "phone": "+91 98765 43210"
+        "phone": "+91 98998 02818"
       },
       {
         "city": "Ancestral Roots",
         "address": "Shitalpur, Ekma, Saran, Bihar — Where the legacy began in 1966 with Shri Swamy Nath Sah",
-        "phone": "+91 98765 43210"
+        "phone": "+91 85953 55297 / +91 76782 21037"
       }
     ]
   },

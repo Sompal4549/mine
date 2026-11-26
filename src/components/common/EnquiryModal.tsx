@@ -167,7 +167,7 @@ export default function EnquiryModal({
                     <Phone className="w-4 h-4 text-[#C18A32] absolute left-3 top-3 pointer-events-none" />
                     <input
                       type="tel"
-                      placeholder="+91 98765 43210"
+                      placeholder="+91 85953 55297"
                       value={phone}
                       onChange={(e) => setPhone(e.target.value)}
                       required
@@ -272,7 +272,7 @@ export default function EnquiryModal({
 
               <div className="text-center pt-1">
                 <a
-                  href={`https://wa.me/919876543210?text=${encodeURIComponent(
+                  href={`https://wa.me/918595355297?text=${encodeURIComponent(
                     `Hello Shri Swami Jewellers, I have an enquiry regarding ${service}. My name is ${name || "a customer"}.`
                   )}`}
                   target="_blank"

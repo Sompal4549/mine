@@ -4,12 +4,22 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import collectionsData from "@/data/collections.json";
 import { OrnamentalDivider } from "@/components/common/Ornaments";
+import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata = {
-  title: "Curated Jewellery Collections | Shri Swami Jewellers",
+export const metadata: Metadata = pageMetadata({
+  title: "Curated Jewellery Collections",
   description:
     "Explore curated collections: Heritage Bridal, Rare & Regional Traditions, Hand-forged Kadas, and Bespoke Gemstone Rings.",
-};
+  path: "/collections",
+  imageAlt: "Curated heritage bridal and traditional gold jewellery collections",
+  keywords: [
+    "heritage bridal jewellery",
+    "traditional gold collections",
+    "antique kadas",
+    "gemstone rings Delhi",
+  ],
+});
 
 export default function CollectionsPage() {
   return (

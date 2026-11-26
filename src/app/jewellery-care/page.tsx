@@ -3,12 +3,22 @@ import Image from "next/image";
 import { CheckCircle2 } from "lucide-react";
 import careData from "@/data/jewellery-care.json";
 import { OrnamentalDivider } from "@/components/common/Ornaments";
+import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata = {
-  title: "Jewellery Care Guide | Preserving Gold & Gemstones | Shri Swami Jewellers",
+export const metadata: Metadata = pageMetadata({
+  title: "Jewellery Care Guide",
   description:
     "Expert goldsmith tips on storing, cleaning and preserving traditional Indian gold, Kundan, Polki, diamonds and precious gemstones.",
-};
+  path: "/jewellery-care",
+  imageAlt: "How to care for traditional gold and gemstone jewellery",
+  keywords: [
+    "jewellery care tips",
+    "how to clean gold jewellery",
+    "store Kundan polki jewellery",
+    "gold jewellery maintenance",
+  ],
+});
 
 export default function JewelleryCarePage() {
   return (

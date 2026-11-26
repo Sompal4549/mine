@@ -3,12 +3,22 @@ import Image from "next/image";
 import { Star, MapPin } from "lucide-react";
 import testimonialsData from "@/data/testimonials.json";
 import { OrnamentalDivider } from "@/components/common/Ornaments";
+import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata = {
-  title: "Customer Testimonials | Three Generations of Trust | Shri Swami Jewellers",
+export const metadata: Metadata = pageMetadata({
+  title: "Customer Testimonials & Reviews",
   description:
     "Read genuine reviews and customer stories from Delhi NCR, Chhapra, and Siwan about our custom jewellery, repairs, and doorstep service.",
-};
+  path: "/testimonials",
+  imageAlt: "Customer reviews of Shri Swami Jewellers",
+  keywords: [
+    "jeweller reviews Delhi",
+    "customer testimonials",
+    "jewellery repair reviews",
+    "trusted jeweller Chhapra Siwan",
+  ],
+});
 
 export default function TestimonialsPage() {
   return (

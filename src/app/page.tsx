@@ -19,6 +19,28 @@ import {
 } from "lucide-react";
 import { LaurelWreathIcon, CrossedToolsIcon } from "@/components/common/CustomIcons";
 import homeData from "@/data/home.json";
+import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata: Metadata = {
+  ...pageMetadata({
+    title: "Custom & Traditional Gold Jewellery",
+    description:
+      "Crafting rare traditional gold designs, custom jewellery and urgent doorstep repair in Delhi NCR, Chhapra & Siwan. 60 years of heritage legacy founded by Shri Swamy Nath Sah in 1966.",
+    path: "/",
+    imageAlt: "Shri Swami Jewellers - heritage gold necklace and custom jewellery",
+    keywords: [
+      "gold jewellery Delhi",
+      "custom jewellery design",
+      "traditional Indian gold jewellery",
+      "doorstep jewellery repair",
+      "jewellery Chhapra Siwan",
+    ],
+  }),
+  title: {
+    absolute: "Shri Swami Jewellers | Custom & Traditional Gold Jewellery",
+  },
+};
 
 export default function HomePage() {
   return (
@@ -593,7 +615,7 @@ export default function HomePage() {
           </div>
 
           <a
-            href="https://wa.me/919876543210?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry"
+            href="https://wa.me/918595355297?text=Hello%20Shri%20Swami%20Jewellers,%20I%20have%20an%20enquiry"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-[#E6BE75] hover:bg-[#D8A84E] text-[#4A101B] font-bold text-xs sm:text-sm px-6 py-2.5 rounded-full shadow-md transition-all flex-shrink-0"

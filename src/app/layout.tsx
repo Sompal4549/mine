@@ -4,15 +4,27 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import AnnouncementBar from "@/components/layout/AnnouncementBar";
 import FloatingWhatsApp from "@/components/common/FloatingWhatsApp";
+import {
+  SITE_NAME,
+  SITE_URL,
+  DEFAULT_OG_IMAGE,
+  OG_IMAGE_WIDTH,
+  OG_IMAGE_HEIGHT,
+} from "@/lib/seo";
+import { organizationJsonLd } from "@/lib/structured-data";
+
+const DEFAULT_TITLE =
+  "Shri Swami Jewellers | Legacy of Trust, Art of Craftsmanship Since 1966";
+const DEFAULT_DESCRIPTION =
+  "Shri Swami Jewellers - Over 60 years of heritage jewellery craftsmanship. Custom jewellery design, repair & restoration, doorstep repair in Delhi NCR, Chhapra & Siwan, Bihar.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://shriswamijewellers.com"),
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: "Shri Swami Jewellers | Legacy of Trust, Art of Craftsmanship Since 1966",
-    template: "%s | Shri Swami Jewellers",
+    default: DEFAULT_TITLE,
+    template: `%s | ${SITE_NAME}`,
   },
-  description:
-    "Shri Swami Jewellers - Over 60 years of heritage jewellery craftsmanship. Custom jewellery design, repair & restoration, doorstep repair in Delhi NCR, Chhapra & Siwan, Bihar.",
+  description: DEFAULT_DESCRIPTION,
   keywords: [
     "Shri Swami Jewellers",
     "Custom Jewellery Design",
@@ -24,27 +36,44 @@ export const metadata: Metadata = {
     "Antique Jewellery Restoration",
     "Shri Swamy Nath Sah",
   ],
-  authors: [{ name: "Shri Swami Jewellers" }],
+  authors: [{ name: SITE_NAME }],
+  creator: SITE_NAME,
+  publisher: SITE_NAME,
+  category: "jewellery",
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://shriswamijewellers.com",
-    siteName: "Shri Swami Jewellers",
-    title: "Shri Swami Jewellers | Legacy of Trust, Art of Craftsmanship",
-    description:
-      "Crafting rare traditional, custom gold designs and doorstep jewellery repair across Delhi NCR, Chhapra and Siwan.",
+    url: SITE_URL,
+    siteName: SITE_NAME,
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESCRIPTION,
     images: [
       {
-        url: "/images/home/hero-necklace.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Shri Swami Jewellers Craftsmanship",
+        url: DEFAULT_OG_IMAGE,
+        width: OG_IMAGE_WIDTH,
+        height: OG_IMAGE_HEIGHT,
+        alt: "Shri Swami Jewellers - Heritage Gold Jewellery Craftsmanship",
       },
     ],
   },
-  robots: {
-    index: true,
-    follow: true,
+  twitter: {
+    card: "summary_large_image",
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESCRIPTION,
+    images: [
+      {
+        url: DEFAULT_OG_IMAGE,
+        alt: "Shri Swami Jewellers - Heritage Gold Jewellery Craftsmanship",
+      },
+    ],
+  },
+  formatDetection: {
+    telephone: true,
+    address: true,
+    email: true,
   },
 };
 
@@ -65,6 +94,10 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-screen flex flex-col bg-[#FAF4E8] text-[#241B19] antialiased selection:bg-[#C18A32] selection:text-white">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+        />
         <AnnouncementBar />
         <Header />
         <main className="flex-1 w-full">{children}</main>

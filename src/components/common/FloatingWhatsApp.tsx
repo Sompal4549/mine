@@ -85,7 +85,7 @@ export default function FloatingActions() {
           {/* Left Hover Tooltip */}
           <span className="absolute left-15 sm:left-17 bg-[#4A101B] text-[#FFF8ED] text-xs font-bold py-1.5 px-3 rounded-xl shadow-xl whitespace-nowrap opacity-0 pointer-events-none group-hover:opacity-100 transition-all duration-300 transform -translate-x-2 group-hover:translate-x-0 border border-[#D8A84E]/50 flex items-center gap-1.5">
             <Phone className="w-3 h-3 text-[#D8A84E]" />
-            Call: +91 98765 43210
+            Call: {siteData.displayPhone}
           </span>
         </a>
       </div>

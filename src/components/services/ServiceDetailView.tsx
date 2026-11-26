@@ -583,7 +583,7 @@ export default function ServiceDetailView({ data }: ServiceDetailViewProps) {
 
           <div className="flex flex-col items-center md:items-end gap-1.5 flex-shrink-0">
             <a
-              href={`https://wa.me/919876543210?text=${encodeURIComponent(
+              href={`https://wa.me/918595355297?text=${encodeURIComponent(
                 data.bottomCta.whatsappMessage
               )}`}
               target="_blank"

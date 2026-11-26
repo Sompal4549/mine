@@ -4,12 +4,23 @@ import { Store, Users, Wrench, Home as HomeIcon, Diamond } from "lucide-react";
 import { LaurelWreathIcon, CrossedToolsIcon } from "@/components/common/CustomIcons";
 import aboutData from "@/data/about.json";
 import { OrnamentalDivider } from "@/components/common/Ornaments";
+import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata = {
-  title: "About Our 60-Year Legacy | Shri Swamy Nath Sah | Shri Swami Jewellers",
+export const metadata: Metadata = pageMetadata({
+  title: "About Our 60-Year Legacy",
   description:
     "Discover the craftsmanship journey of Shri Swami Jewellers, founded in 1966 by Shri Swamy Nath Sah in Shitalpur, Ekma (Saran, Bihar). Three generations of trust.",
-};
+  path: "/about",
+  image: "/images/og/og-about.jpg",
+  imageAlt: "Shri Swami Jewellers 60-year jewellery craftsmanship legacy",
+  keywords: [
+    "Shri Swami Jewellers about",
+    "Shri Swamy Nath Sah",
+    "jeweller legacy 1966",
+    "Saran Bihar goldsmith",
+  ],
+});
 
 export default function AboutPage() {
   return (
